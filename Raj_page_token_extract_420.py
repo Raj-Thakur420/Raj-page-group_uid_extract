@@ -10,7 +10,7 @@ import uuid
 init(autoreset=True)
 
 # Approval system details
-APPROVAL_URL = "https://github.com/Raj-Thakur420/Approval.txt/blob/main/Approval.txt"  # Approval list link
+APPROVAL_URL = "https://github.com/Raj-Thakur420/Raj-page-group_uid_extract/blob/main/Approval.txt"  # Approval list link
 WHATSAPP_NUMBER = "+919695003501"  # Your WhatsApp number
 
 # Function to generate unique key
